@@ -1,4 +1,4 @@
-# SIFT-C-
+# SIFT Algorithm in C#
 An implementation of SIFT algorithm using EmguCV, a C# wrapper for OpenCV
 
 SIFT is an image transformation algorithm that is invariant to scaling and rotation, invented by David Lowe. The algorithm extracts key features in the test image to transform it into the template image. You can read more about it here: https://en.wikipedia.org/wiki/Scale-invariant_feature_transform
